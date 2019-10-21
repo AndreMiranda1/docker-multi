@@ -20,4 +20,4 @@ after_success:
   - docker push andremiranda/multi-client
   - docker push andremiranda/multi-nginx
   - docker push andremiranda/multi-worker
-  - docker push andremiranda/multi-ser
+  - docker push andremiranda/multi-server
